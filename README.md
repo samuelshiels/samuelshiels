@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelshiels
-I am a ServiceNow developer with an interest in ITOM, Orchestration and Integrations
+I am a ServiceNow developer and take an interest in Python and Rust as a hobby.
 
 These repositories are for both my small projects and info dumps regarding system processes.
 
